@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yokomii/typescript-traning/issues"
   },
-  "homepage": "https://github.com/yokomii/typescript-traning#readme"
+  "homepage": "https://github.com/yokomii/typescript-traning#readme",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
 }
